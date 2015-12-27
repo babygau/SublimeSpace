@@ -1,0 +1,5 @@
+{
+  // Default prefix is `space` and `hyper` keys
+  "prefix": "space",
+  "meta": "super+alt+shift+ctrl"
+}

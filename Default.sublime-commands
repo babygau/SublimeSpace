@@ -1,0 +1,56 @@
+[{
+  "caption": "Sublime Space: Run",
+  "command": "sublime_space"
+}, {
+  "caption": "Sublime Space: Settings – Default",
+  "command": "open_file",
+  "args": {
+    "file": "${packages}/SublimeSpace/SublimeSpace.sublime-settings"
+  }
+}, {
+  "caption": "Sublime Space: Settings – Users",
+  "command": "open_file",
+  "args": {
+    "file": "${packages}/User/SublimeSpace.sublime-settings"
+  }
+}, {
+  "caption": "Sublime Space: Keybindings – OSX Default",
+  "command": "open_file",
+  "args": {
+    "file": "${packages}/SublimeSpace/Default (OSX).sublime-keymap",
+    "platform": "OSX"
+  }}, {
+  "caption": "Sublime Space: Keybindings – OSX Users",
+  "command": "open_file",
+  "args": {
+    "file": "${packages}/User/SublimeSpace (OSX).sublime-keymap",
+    "platform": "OSX"
+  }}, {
+  "caption": "Sublime Space: Keybindings – Linux Default",
+  "command": "open_file",
+  "args": {
+    "file": "${packages}/SublimeSpace/Default (Linux).sublime-keymap",
+    "platform": "Linux"
+  }
+}, {
+  "caption": "Sublime Space: Keybindings – Linux Users",
+  "command": "open_file",
+  "args": {
+    "file": "${packages}/User/SublimeSpace (Linux).sublime-keymap",
+    "platform": "Linux"
+  }
+}, {
+  "caption": "Sublime Space: Keybindings – Windows Default",
+  "command": "open_file",
+  "args": {
+    "file": "${packages}/SublimeSpace/Default (Windows).sublime-keymap",
+    "platform": "Windows"
+  }
+}, {
+  "caption": "Sublime Space: Keybindings – Windows Users",
+  "command": "open_file",
+  "args": {
+    "file": "${packages}/User/SublimeSpace/ Default (Windows).sublime-keymap",
+    "platform": "Windows"
+  }
+}]
