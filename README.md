@@ -11,7 +11,7 @@ Why I write this plugin:
 
 ### Dependency packages:
 
-- Vintageous
+- SublimeSix
 - Power Cursor
 - Project Manager
 - Ace Jump
